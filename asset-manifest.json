@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/static/css/main.0fb79154.chunk.css",
+    "main.js": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/static/js/main.728c6aed.chunk.js",
+    "main.js.map": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/static/js/main.728c6aed.chunk.js.map",
+    "runtime-main.js": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/static/js/runtime-main.a0eaee1e.js",
+    "runtime-main.js.map": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/static/js/runtime-main.a0eaee1e.js.map",
+    "static/js/2.60e19c67.chunk.js": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/static/js/2.60e19c67.chunk.js",
+    "static/js/2.60e19c67.chunk.js.map": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/static/js/2.60e19c67.chunk.js.map",
+    "index.html": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/index.html",
+    "precache-manifest.9387af5ff39edd0eff55f8673b336f8f.js": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/precache-manifest.9387af5ff39edd0eff55f8673b336f8f.js",
+    "service-worker.js": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/service-worker.js",
+    "static/css/main.0fb79154.chunk.css.map": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/static/css/main.0fb79154.chunk.css.map",
+    "static/js/2.60e19c67.chunk.js.LICENSE.txt": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/static/js/2.60e19c67.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/crosscay/frases_de_breaking_bad_desde_una_api_react.git/static/media/logo.427a4adc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0eaee1e.js",
+    "static/js/2.60e19c67.chunk.js",
+    "static/css/main.0fb79154.chunk.css",
+    "static/js/main.728c6aed.chunk.js"
+  ]
+}
